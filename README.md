@@ -6,7 +6,7 @@ I am a freshmen studying computer science!
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning web development
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramirezfernando&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramirezfernando&theme=onedark)](https://github.com/ramirezfernando/github-profile-trophy)
 
 
 ## Languages
@@ -16,4 +16,4 @@ I am a freshmen studying computer science!
 
 
 
-<p align="center"> [![Visits Badge](https://badges.pufler.dev/visits/ramirezfernando/ramirezfernando)] </p>
+[![Visits Badge](https://badges.pufler.dev/visits/ramirezfernando/ramirezfernando)]
