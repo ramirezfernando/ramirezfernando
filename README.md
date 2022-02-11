@@ -13,7 +13,7 @@ I am a freshmen studying computer science!
 
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 
-
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramirezfernando&label=Profile%20views&color=537a33&style=flat" alt="ramirezfernando" /> </p>
