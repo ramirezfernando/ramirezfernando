@@ -15,5 +15,5 @@ I am a freshmen studying computer science!
 
 
 
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/{ramirezfernando}/count.svg) </p>
 
+<p align="center"> [![Visits Badge](https://badges.pufler.dev/visits/ramirezfernando/ramirezfernando)] </p>
