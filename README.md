@@ -1,4 +1,6 @@
-### Hi there 👋
+<center>
+  <p>Hi there 👋</p>
+</center>
 
 My name is Fernando Ramirez and I am a freshmen studying computer science!
 
