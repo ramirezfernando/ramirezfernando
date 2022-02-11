@@ -15,6 +15,5 @@ I am a freshmen studying computer science!
 
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ramirezfernando}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-![Visitor Count](https://profile-counter.glitch.me/{ramirezfernando}/count.svg)
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{ramirezfernando}/count.svg) </p>
 
