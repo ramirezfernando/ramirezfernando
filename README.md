@@ -16,4 +16,4 @@ I am a freshmen studying computer science!
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/ramirezfernando/ramirezfernando)]
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramirezfernando&label=Profile%20views&color=537a33&style=flat" alt="ramirezfernando" /> </p>
