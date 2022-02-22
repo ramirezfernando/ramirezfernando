@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/ramirezfernando/ramirezfernando/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Fernando Ramirez</h1>
 
