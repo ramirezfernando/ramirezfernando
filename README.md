@@ -12,7 +12,7 @@ I am a freshmen studying computer science!
 ![ramirezfernando's github stats](https://github-readme-stats.vercel.app/api?username=ramirezfernando&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
 
 
-## Leetcode
+### LeetCode Stats
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=fearzyn&theme=dark" width="400"/>
-</a>       
+</a>     
