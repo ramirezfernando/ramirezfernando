@@ -8,12 +8,9 @@ I am a freshmen studying computer science!
 - 🌱 I’m currently learning web development.
 - Check out my website: https://ramirezfernando.github.io/
 
+## Github Stats
+![ramirezfernando's github stats](https://github-readme-stats.vercel.app/api?username=breakdowns&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
 
-## Languages
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
 
 ## Leetcode
 <a href="https://github.com/KnlnKS/leetcode-stats">
