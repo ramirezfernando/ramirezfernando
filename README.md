@@ -14,5 +14,5 @@ I am a freshmen studying computer science!
 
 ## Leetcode
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/dark/leetcode-stats?username=fearzyn" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=fearzyn" &theme=dark width="400"/>
 </a>       
