@@ -7,6 +7,6 @@ I am Fernando Ramirez, currently pursuing my bachelor's degree majoring in compu
 
 ### Contact me
 
-[![Email](https://img.shields.io/badge/-Email-000?logo=protonmail)](mailto:ramirez.fernando2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/fernandoramirez03/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramirez.fernando2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoramirez03/)
 
