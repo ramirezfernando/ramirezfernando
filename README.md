@@ -3,7 +3,7 @@
 
 ## About me
 
-I am Fernando Ramirez, and I'm currently pursuing my Bachelor of Science in Computer Science from The University of Houston. I am a tech enthusiast & love learning anything related to computer science. Find out more about me & feel free to reach out to me.
+I am Fernando Ramirez, and I'm currently pursuing a Bachelor of Science in Computer Science from the University of Houston. I am a tech enthusiast & love learning anything related to computer science. Find out more about me & feel free to reach out to me.
 
 ## Contact me
 
