@@ -1,10 +1,9 @@
 
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hello there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 ## About me
 
-I am Fernando Ramirez, and I'm currently pursuing a Bachelor of Science in Computer Science from the University of Houston. I am a tech enthusiast & love learning anything related to computer science. Find out more about me & feel free to reach out to me.
-
+I am Fernando Ramirez, and I'm currently pursuing a Bachelor of Science in Computer Science from the University of Houston. This is where you cans see my many hours of coding stuff.
 ## Contact me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramirez.fernando2003@gmail.com)
