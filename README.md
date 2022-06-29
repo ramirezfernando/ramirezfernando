@@ -6,4 +6,4 @@ I'm [Fernando Ramirez](https://ramirezfernando.netlify.app/), a student who like
 - 🌱 I’m currently learning Algorithms & Data Structures
 - 📫 How to reach me: ramirez.fernando2003@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can't swim 😂
+- ⚡ Fun fact: I can't swim
