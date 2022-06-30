@@ -8,5 +8,4 @@ I'm [Fernando Ramirez](https://ramirezfernando.netlify.app/), studying CS + Math
 - 📫 How to reach me: ramirez.fernando2003@gmail.com
 - 💬 Ask me about my projects, my favorite anime, or anything else!
 
----
 
