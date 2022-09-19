@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-I'm [Fernando Ramirez](https://ramirezfernando.netlify.app/), studying CS + Math at the University of Houston.
+I'm [Fernando Ramirez](https://fndo.netlify.app/), studying CS + Math at the University of Houston.
 
 - 🌱 I’m currently learning Algorithms & Data Structures
 - 😄 Pronouns: he/him
