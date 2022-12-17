@@ -1,5 +1,5 @@
 
-### Hello there 👋
+### 👋 Hello there 
 
 I'm Fernando Ramirez, studying CS + Math at the University of Houston. I'm currently looking for 2023 software engineering internships. See below to check out some of my programming experience!
 
