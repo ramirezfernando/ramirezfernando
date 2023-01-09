@@ -4,13 +4,13 @@
 I'm Fernando Ramirez, studying CS + Math at the University of Houston. I'm currently looking for 2023 software engineering internships. See below to check out some of my programming experience!
 
 💻 Work experience:
-  * **Incoming Software Engineer Intern at Amazon**
+  * **Incoming Software Engineer Intern at Amazon Web Services**
     * TBD
   * **Software Engineer Intern at Optum**
-    * Frontend engineering on the innovation lab team
+    * Frontend engineering
     * React.js, JavaScript
   * **Software Engineer Intern at Buzly**
-    * Full-stack engineering on the growth team 
+    * Full-stack engineering
     * React.js, JavaScript, Express.js, MongoDB, Node.js
 
 👀 I’m interested in:
