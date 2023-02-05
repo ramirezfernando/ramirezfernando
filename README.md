@@ -8,10 +8,10 @@ I'm Fernando Ramirez, studying CS + Math at the University of Houston. I'm curre
     * TBD
   * **Software Engineer Intern at Optum**
     * Frontend engineering
-    * React.js, JavaScript
+    * React.js, JavaScript, MaterialUI
   * **Software Engineer Intern at Buzly**
     * Full-stack engineering
-    * React.js, JavaScript, Express.js, MongoDB, Node.js
+    * React.js, JavaScript, Express.js, Node.js, MongoDB
 
 👀 I’m interested in:
   * Backend development :wrench:
