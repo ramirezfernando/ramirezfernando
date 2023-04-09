@@ -11,7 +11,7 @@ I'm Fernando Ramirez, and I'm studying CS + Math at the University of Houston. I
     * React.js, JavaScript, Express.js, Node.js, MaterialUI
   * **Software Engineer Intern at Buzly**
     * Full-stack engineering
-    * React.js, JavaScript, Express.js, Node.js, MongoDB, Tailwind
+    * React.js, JavaScript, Express.js, Node.js, MongoDB, Tailwind, Docker
 
 👀 I’m interested in:
   * Backend development :wrench:
