@@ -1,12 +1,12 @@
 
 ### Hello there! 👋
 
-I'm Fernando Ramirez, and I'm studying CS + Math at the University of Houston. I'm currently looking for fall 2023 and spring 2024 software engineering internships. See below to check out some of my programming experience!
+I'm Fernando Ramirez, and I'm studying CS + Math at the University of Houston.
 
 💻 Work experience:
   * **Software Engineer Intern at Amazon Web Services**
     * Backend engineering
-    * Java, TypeScript
+    * Java, TypeScript, JUnit, Mockito, Guice, Project Lombok, AWS
   * **Software Engineer Intern at UnitedHealth Group**
     * Full-stack engineering
     * React.js, JavaScript, Express.js, Node.js, MaterialUI
@@ -15,7 +15,7 @@ I'm Fernando Ramirez, and I'm studying CS + Math at the University of Houston. I
     * React.js, JavaScript, Express.js, Node.js, MongoDB, Tailwind, Docker
 
 👀 I’m interested in:
-  * Backend development :wrench:
+  * Distributed systems :wrench:
   * Gaming :video_game:
   * Web development :spider_web:
   * Memes :trollface:
