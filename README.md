@@ -1,13 +1,18 @@
-# Hello there 👋
+### Hello there 👋
 
-#### [Website](https://www.ramirezfernando.github.io/) - [Email](mailto:ramirez.fernando2003@gmail.com) - [LinkedIn](https://www.linkedin.com/in/fndo/)
+Hello, my name is Fernando Ramirez, a rising senior studying computer science at the University of Houston! Here's some info about me!
 
-Hello, my name is Fernando Ramirez, a rising senior studying computer science at the University of Houston! I'm experienced in Full Stack Development, and interested in distributed systems. 
+⚡ Work experience: <be>
 
-## Work Experience 👨‍💻
-- Amazon Web Services 📦 - May 2023 to Aug 2023 
-- UnitedHealth Group 🩺 - Sep 2023 to May 2023 
-- Buzly 🐝 - Jun 2022 to Aug 2022
+- **Teaching Assistant at University of Houston** - Computer Science and Programming (Python). [Houston, TX. Spring 2023, Fall 2023]
+- **Software Engineer intern at Amazon Web Services (AWS)** - Back-end development on the CloudTrail Lake team. [Seattle, WA. Summer 2023]
+- **Software Engineer intern at UnitedHealth Group** - Full-stack development on the Innovation Lab team. [Remote. Fall 2022 - Spring 2023]
+- **Software Engineer intern at Buzly** - Full-stack development on the University Platform team. [Remote. Summer 2022]
 
+🌱 Interests:
+- Web development.
+- Distributed systems.
 
-Feel free to reach out to me for interesting opportunities through email at ramirez.fernando2003@gmail.com.
+💬 Reach me by email or LinkedIn! ramirez.fernando2003@gmail.com | www.linkedin.com/in/fndo
+
+📫 Visit my website: https://ramirezfernando.github.io
