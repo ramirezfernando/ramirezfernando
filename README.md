@@ -1,18 +1,19 @@
-### Hello there 👋
+# Welcome! 
 
-Hello, my name is Fernando Ramirez, a rising senior studying computer science at the University of Houston! Here's some info about me!
+[![Gmail Badge](https://img.shields.io/badge/-ramirez.fernando2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirez.fernando2003@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-in/fndo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fndo/ "Connect on LinkedIn")
 
-⚡ Work experience: <be>
 
-- **Teaching Assistant at University of Houston** - Computer Science and Programming (Python). [Houston, TX. Spring 2023, Fall 2023]
-- **Software Engineer intern at Amazon Web Services (AWS)** - Back-end development on the CloudTrail Lake team. [Seattle, WA. Summer 2023]
-- **Software Engineer intern at UnitedHealth Group** - Full-stack development on the Innovation Lab team. [Remote. Fall 2022 - Spring 2023]
-- **Software Engineer intern at Buzly** - Full-stack development on the University Platform team. [Remote. Summer 2022]
+Hello, my name is Fernando Ramirez, I'm a senior studying computer science at the University of Houston. I'm currently exploring web development and distributed systems!
 
-🌱 Interests:
-- Web development.
-- Distributed systems.
+## 👨‍💻 Work Experience 
+- 📝 University of Houston - January 2023 to Present
+- 📦 Amazon Web Services - May 2023 to August 2023
+- 🩺 UnitedHealth Group - September 2022 to May 2023
+- 🐝 Buzly - June 2022 to August 2022
 
-💬 Reach me by email or LinkedIn! ramirez.fernando2003@gmail.com | www.linkedin.com/in/fndo
+## ✨ Get to know me!
+- 🌱  I’m currently working on rankumé, a crowd-sourced resume-ranking web app
 
-📫 Visit my website: https://ramirezfernando.github.io
+### 📚 Looking for my Resume? [View here!](https://github.com/ramirezfernando/resume/blob/main/resume.pdf)
+ 
