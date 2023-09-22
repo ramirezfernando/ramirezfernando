@@ -14,7 +14,7 @@ Hello, my name is Fernando Ramirez, I'm a senior studying computer science at th
 
 ## ✨ Get to know me!
 - 🌱 I’m currently developing rankumé, a crowd-sourced resume-ranking web app
-- 📄 I'm building my resume reviewing business. Learn more [here](https://resumeservices.super.site/)
+- 📄 I'm building my resume reviewing business. Check it out [here](https://resumeservices.super.site/)!
 
 ### 📚 Looking for my Resume? [View here!](https://github.com/ramirezfernando/resume/blob/main/Fernando_Ramirez_Resume.pdf)
  
