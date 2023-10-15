@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-in/fndo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fndo/ "Connect on LinkedIn")
 
 
-Hello, my name is Fernando Ramirez, I'm a senior studying computer science at the University of Houston. I'm currently exploring web development and distributed systems!
+I'm Fernando Ramirez, a senior studying computer science at the University of Houston. I'm currently exploring web development and distributed systems!
 
 ## 👨‍💻 Work Experience 
 - 📝 University of Houston - January 2023 to Present
