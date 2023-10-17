@@ -13,7 +13,7 @@ I'm Fernando Ramirez, a senior studying computer science at the University of Ho
 - 🐝 Buzly - June 2022 to August 2022
 
 ## ✨ Get to know me!
-- 🌱 I’m currently developing rankumé, a crowd-sourced resume-ranking web app
+- 🌱 I’m developing rankumé, a crowd-sourced resume-ranking web app, and contributing to the code coogs website!
 - 📄 I'm currently helping others make resumes that stand out! Learn more [here](https://resumeservices.super.site/)
 
 ### 📚 Looking for my Resume? [View here!](https://github.com/ramirezfernando/resume/blob/main/Fernando_Ramirez_Resume.pdf)
