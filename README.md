@@ -1,9 +1,5 @@
 # Welcome! 
 
-[![Gmail Badge](https://img.shields.io/badge/-ramirez.fernando2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirez.fernando2003@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-in/fndo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fndo/ "Connect on LinkedIn")
-
-
 I'm Fernando Ramirez, a senior studying computer science at the University of Houston. I'm currently exploring web development and distributed systems!
 
 ## 👨‍💻 Work Experience 
